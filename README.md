@@ -17,5 +17,5 @@ Abaixo estão as capturas de tela demonstrando a estrutura da rede, o processo d
 
 <img width="560" height="401" alt="Captura de tela 2026-08-24 225311" src="https://github.com/user-attachments/assets/8ab31e6e-0f18-45c0-97f4-7f5298ea81eb" />
 
-<img width="1364" height="644" alt="Captura de tela 2026-08-24 222908" src="https://github.com/user-attachments/assets/5123b5b6-79c0-4303-b7b3-8ebf6fa2b412" />
+
 
