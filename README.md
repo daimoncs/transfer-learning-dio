@@ -13,8 +13,6 @@ A base do modelo VGG16 foi carregada com seus pesos pré-treinados (congelados).
 ## Resultados do Treinamento
 Abaixo estão as capturas de tela demonstrando a estrutura da rede, o processo de treinamento e a acurácia alcançada:
 
-*(Dê um "Enter" aqui e arraste as imagens dos seus prints diretamente do seu computador para dentro desta tela de edição. O GitHub vai carregar e gerar um código automático para elas aparecerem!)*
-
 <img width="876" height="459" alt="Captura de tela 2026-08-24 225634" src="https://github.com/user-attachments/assets/576cc6bc-6f7b-4e20-bc0a-6259c3f075ab" />
 
 <img width="560" height="401" alt="Captura de tela 2026-08-24 225311" src="https://github.com/user-attachments/assets/8ab31e6e-0f18-45c0-97f4-7f5298ea81eb" />
